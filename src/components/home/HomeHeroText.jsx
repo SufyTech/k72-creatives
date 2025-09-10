@@ -1,5 +1,4 @@
 import React from "react";
-import Video from "./Video";
 
 const HomeHeroText = () => {
   return (
@@ -19,7 +18,7 @@ const HomeHeroText = () => {
             loop
             muted
             playsInline
-            src="src/assets/video.mp4"
+            src="/video.mp4"
           ></video>
         </div>
         génère
